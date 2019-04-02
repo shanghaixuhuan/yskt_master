@@ -1,0 +1,33 @@
+{
+"dataCloud":[
+  {"name": "艺术课堂","value": "300"},
+  {"name": "绘画","value": "256"},
+  {"name": "小学","value": "222"},
+  {"name": "国画","value": "219"},
+  {"name": "水彩画","value": "208"},
+  {"name": "简笔画","value": "201"},
+  {"name": "中学","value": "196"},
+  {"name": "雕塑","value": "184"},
+  {"name": "美学","value": "158"},
+  {"name": "版画","value": "155"},
+  {"name": "启蒙","value": "146"},
+  {"name": "中国美术学院","value": "128"},
+  {"name": "中央美术学院","value": "127"},
+  {"name": "设计","value": "126"},
+  {"name": "设计师","value": "123"},
+  {"name": "米开朗琪罗","value": "146"},
+  {"name": "达芬奇","value": "117"},
+  {"name": "画笔","value": "127"},
+  {"name": "颜料","value": "76"},
+  {"name": "素描","value": "77"},
+  {"name": "速写","value": "88"},
+  {"name": "油画","value": "76"},
+  {"name": "艺考","value": "150"},
+  {"name": "清华美院","value": "67"},
+  {"name": "幼儿绘画","value": "49"},
+  {"name": "美术","value": "127"},
+  {"name": "漫画","value": "256"},
+  {"name": "漫画家","value": "53"},
+  {"name": "画板","value": "126"}
+]
+}
